@@ -31,28 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Task Manager",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A task manager app built with Flutter. It has a clean UI and is easy to use. It has features like adding tasks, Updating task",
+    url: "https://github.com/sajjadrahman56/Flutter-Journey",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Python - ML - DL",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A repository containing all the projects I have done in Python. It has projects on Machine Learning, Deep Learning",
+    url: "https://github.com/sajjadrahman56/PY-ML-DS",
   },
   {
-    title: "My Resume Site",
+    title: "Mastering Python Functions",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This blog contains all the information about Python Functions. It has all the information about Python Functions",
+    url: "https://hashnode.com/edit/clmqdny2p000c09l3c4g70m06",
   },
 ];
 
